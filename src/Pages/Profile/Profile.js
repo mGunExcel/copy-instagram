@@ -22,7 +22,7 @@ const Profile = () => {
   return (
     
     <div className="Profile">
-      <GNB />
+      {/* <GNB /> */}
       <div className="page">
         {userInfo ? <MyInfo userInfo = {userInfo}/> : <div>로딩</div>}
         <MyStorys />
