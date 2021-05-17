@@ -9,6 +9,7 @@ function Main() {
         <Feed data = {tempData[0]}/>
         <Feed data = {tempData[1]}/>
         <Feed data = {tempData[2]}/>
+        안녕하세요
       </div>
     )
 }
